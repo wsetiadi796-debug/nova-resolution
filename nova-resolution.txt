@@ -4,3 +4,6 @@ NOVA RESOLUTION
 - pelajari nmap
 - pelajari nmap
 - buat laporan server dan media center
+- issue monitoringtv rencana pake splitter booster antena
+- pengajuan splitter RCV 4 port ke mba novi
+
