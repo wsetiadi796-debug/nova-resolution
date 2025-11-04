@@ -1,0 +1,6 @@
+NOVA RESOLUTION
+- pelajari penetration test web dvwa
+- pelajari burp suite
+- pelajari nmap
+- pelajari nmap
+- buat laporan server dan media center
