@@ -1,9 +1,8 @@
 NOVA RESOLUTION
 - pelajari penetration test web dvwa
 - pelajari burp suite
-- pelajari nmap
-- pelajari nmap
 - buat laporan server dan media center
 - issue monitoringtv rencana pake splitter booster antena
 - pengajuan splitter RCV 4 port ke mba novi
-
+- buat laporan mingguan
+- buat timeline penetration test
